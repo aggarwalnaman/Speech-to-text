@@ -1,5 +1,5 @@
 import speech_recognition as sr
-AudFile=("male.wav")
+AudFile=("female.wav")
 
 r=sr.Recognizer()
 
