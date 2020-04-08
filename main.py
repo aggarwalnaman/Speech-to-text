@@ -12,4 +12,3 @@ except sr.UnknownValueError:
     print("Can not understand audio")
 except sr.RequestError:
     print("Could not found result")
-
